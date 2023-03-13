@@ -31,7 +31,7 @@ If you close the program before it is fully executed, your computer may start to
 ## Installation:
 
 ### Dowload
-* download the latest [Release](https://discord.gg/bjgpVAxgyE)
+* download the latest [Release](https://github.com/YTFort/GrifFinder/releases/tag/Release)
 
 ### Python
 
