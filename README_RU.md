@@ -31,7 +31,7 @@
 ## Установка:
 
 ### Скачайте это
-* Скачайте послейдий [Релиз](https://discord.gg/bjgpVAxgyE)
+* Скачайте послейдий [Релиз](https://github.com/YTFort/GrifFinder/releases/tag/Release)
 
 ### Python
 
